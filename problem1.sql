@@ -1,1 +1,1 @@
-SELECT * FROM song;
+SELECT firstname from site_user;
